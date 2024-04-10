@@ -4,14 +4,15 @@ This is a simple C++ program that generates random compliments and displays them
 
 ## How to Use
 
-1. Clone the repository or download the `compliments.cpp` file.
+1. Clone the repository or download the `ComplimentGenerator.cpp
+` file.
 2. Compile the program using a C++ compiler. For example:
     ```
-    g++ compliments.cpp -o compliments
+    g++ ComplimentGenerator.cpp -o compliments
     ```
 3. Run the compiled executable:
     ```
-    ./compliments
+    ./ComplimentGenerator
     ```
 4. Enjoy your random compliment!
 
