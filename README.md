@@ -17,7 +17,7 @@ This is a simple C++ program that generates random compliments and displays them
 
 ## Contributing
 
-Feel free to contribute by adding more compliments to the `compliments` array in the source code. Simply fork the repository, make your changes, and submit a pull request.
+Feel free to contribute by adding more compliments to the `ComplimentGenerator.cpp` array in the source code. Simply fork the repository, make your changes, and submit a pull request.
 
 ## License
 
