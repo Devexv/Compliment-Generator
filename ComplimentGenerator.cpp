@@ -16,7 +16,14 @@ std::string generateCompliment() {
         "You are a true inspiration!",
         "You have beautiful hair",
         "You are smart!",
-        "Keep reaching your dreams, it's never too late"
+        "Keep reaching your dreams, it's never too late",
+        "You have a great smile!",
+        "Your kindness is contagious.",
+        "You're a true inspiration!",
+        "You're doing great things!",
+        "You're simply the best!",
+        "Your positive energy is infectious!",
+        "You're a ray of sunshine on a cloudy day!"
     };
 
     int numCompliments = sizeof(compliments) / sizeof(compliments[0]);
